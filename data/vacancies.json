@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Senior Backend разработчик (Python/Rust/Golang)",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128742960",
+        "description": "Высшее образование (в сфере ИТ или техническое). Опыт продуктовой <highlighttext>разработки</highlighttext> на <highlighttext>python</highlighttext>/golang от 2-х лет. Базовый опыт работы..."
+    },
+    {
+        "name": "Python разработчик (Software Engineer)",
+        "salary": {
+            "from": null,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/123054425",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> 3.11+. Опыт работы с FastAPI, SQLAlchemy, Docker, Git, Linux. Понимание архитектурных паттернов: CQRS, Saga, Event..."
+    },
+    {
+        "name": "Backend Middle Python developer/ Разработчик AI-бота",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/129104674",
+        "description": "Backend: <highlighttext>Python</highlighttext>, Django, Celery, Redis, PostgreSQL, aiogram 3.x. AI-интеграции: Google Vertex AI, Gemini, OpenAI API, Kling AI, Midjourney..."
+    },
+    {
+        "name": "Senior Python Back-End Developer (Fintech)",
+        "salary": {
+            "from": null,
+            "to": 4500,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128753471",
+        "description": "4+ лет опыта коммерческой <highlighttext>разработки</highlighttext>. Умение разрабатывать на <highlighttext>Python</highlighttext> распределенные Highload системы. Способность проектировать чистую, поддерживаемую архитектуру. "
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/129168936",
+        "description": "Уверенный <highlighttext>Python</highlighttext> и опыт разработки на Django, Django REST Framework. - Навыки Linux-администрирования. - Понимание веба: HTTP/HTTPS, cookies/sessions, CORS..."
+    },
+    {
+        "name": "Младший тестировщик AQA (Python)",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/128697709",
+        "description": "Базовые навыки <highlighttext>Python</highlighttext>. Понимание основ тестирования ПО. Знание структуры и работы REST API. Умение пользоваться Git. Внимательность к деталям, логическое..."
+    },
+    {
+        "name": "Middle Python/Go разработчик",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/128584175",
+        "description": "Релевантный опыт backend-<highlighttext>python</highlighttext> разработчиком не менее 1,5 лет. Умение работы с системами сбора и хранения логов. "
+    }
+]
